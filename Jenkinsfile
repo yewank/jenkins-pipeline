@@ -1,8 +1,7 @@
 pipeline {
     agent any
     environment {
-        EMAIL_RECIPIENTS = 'yewankospelawattaa@gmail.com
-@gmail.com'
+        EMAIL_RECIPIENTS = 'yewankospelawattaa@gmail.com'
     }
 
     stages {
